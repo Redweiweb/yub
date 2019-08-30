@@ -1,3 +1,5 @@
+网站网址修改在 blob/master/js/mods.js
+
 # yub.js
 
 Yub.js is an extensible client-side web command-line that comes with [loads of useful search engines](https://dohliam.github.io/yub/?s%20google) and shortcuts, reusable commands, and lots of other hidden goodies like [stopwatches](https://dohliam.github.io/yub/?stopwatch) and [inline YouTube videos](https://dohliam.github.io/yub/?watch%20imax). It also has a flexible API so you can call yub.js commands from anywhere: for example, you can [link directly to commands](https://dohliam.github.io/yub/?echo%20Hi%20there,%20new%20yub.js%20user!<br>Have%20fun,%20and%20type%20'help'%20if%20you%20get%20lost%20:%29), or access them right from your browser address bar (just set up a single search shortcut pointing at the yub.js API, and get hundreds of other search shortcuts for free).
